@@ -5,4 +5,4 @@ Jekyll-dummy-content is for starting new jekyll themes with placeholder content.
 
 There are no customizations to the jekyll theme itself, it's literally just the default `jekyll new` site with a bunch of dummy posts.
 
-Just fork, and start building or testing your theme!
+[Preview it here](http://joelglovier.com/jekyll-dummy-content/), or just fork and start building or testing your theme!
