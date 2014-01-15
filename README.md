@@ -8,11 +8,9 @@ There are no customizations to the jekyll theme itself, it's literally just the 
 
 ## Usage
 
-**Option A**
-Fork the project and modify the template files accordingly. Use the dummy posts to help you consider possible content scenarios, and design accordingly. When you are ready to ship your theme or project, simply delete the dummy posts.
+**Option A** - Fork the project and modify the template files accordingly. Use the dummy posts to help you consider possible content scenarios, and design accordingly. When you are ready to ship your theme or project, simply delete the dummy posts.
 
-**Option B**
-[Download only the `_posts` folder](https://github.com/jglovier/jekyll-dummy-content/tree/gh-pages/_posts) to your existing Jekyll project to test content in the same way as Option A.
+**Option B** - [Download posts](https://github.com/jglovier/jekyll-dummy-content/tree/gh-pages/_posts) directly from the `_posts` folder into your existing Jekyll project to test content in the same way as Option A.
 
 ## Contributing
 
